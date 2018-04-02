@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SilentModeToggle</string>
+    <string name="ringerOn">Ringer in On mode</string>
+    <string name="Toggle">Toggle</string>
+</resources>
