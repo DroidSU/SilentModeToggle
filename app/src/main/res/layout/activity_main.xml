@@ -16,7 +16,7 @@
         android:adjustViewBounds="true"
         android:contentDescription="@string/ringerOn"
         android:cropToPadding="true"
-        app:srcCompat="@drawable/ringeron"
+        app:srcCompat="@mipmap/ringeron"
         tools:layout_editor_absoluteX="60dp"
         tools:layout_editor_absoluteY="34dp" />
 
